@@ -1,2 +1,2 @@
 # Timeline
- Timeline generator to assit with worldbuilding
+ Timeline generator to assist with worldbuilding
